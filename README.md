@@ -1,0 +1,2 @@
+# dangigo.gitignore
+dangigo
